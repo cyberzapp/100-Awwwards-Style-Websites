@@ -1,0 +1,413 @@
+100 Industries for Immersive, Awwwards-Style Websites
+Awwwards-style websites rely on WebGL, 3D objects, scroll-triggered animations (GSAP), custom typography, and unconventional layouts to create digital experiences rather than just informational pages. Here are 100 industries where this high-end approach works best, complete with creative direction.
+I. Advanced Technology & AI (1-10)
+1. Artificial Intelligence Research
+Website Name: Sentient.ai
+Visuals & Objects: Morphing WebGL particle spheres, interactive neural network nodes that react to mouse hover.
+Style Rules: Deep Space Black & Electric Indigo. Fonts: Space Grotesk (Headers), Inter (Body). Glassmorphism UI, glowing gradients.
+2. Quantum Computing
+Website Name: Q-Core Systems
+Visuals & Objects: A 3D rendered gold-plated quantum chandelier (cryostat) that users can rotate; floating qubits.
+Style Rules: Pure White, Metallic Gold, & Charcoal. Fonts: PP Neue Montreal. Clinical, ultra-minimalist, large negative space.
+3. Cybersecurity
+Website Name: Aegis Protocol
+Visuals & Objects: A rotating 3D shield made of binary code; glitch-effect typography on scroll.
+Style Rules: Matte Black & Neon Green/Cyan. Fonts: JetBrains Mono. Brutalist tech style, terminal-inspired UI.
+4. Web3 & Blockchain
+Website Name: EtherLoom
+Visuals & Objects: Floating geometric prisms; interactive abstract 3D topographies that generate as you scroll.
+Style Rules: Dark Violet, Magenta, & Liquid Silver. Fonts: Syne (Headers). Iridescent textures, soft blur backgrounds.
+5. Robotics & Automation
+Website Name: Automata Dynamics
+Visuals & Objects: An interactive 3D robotic arm that follows the user's cursor; exploded views of servo motors.
+Style Rules: Steel Gray & Safety Orange. Fonts: Clash Display. Industrial, grid-based layouts, mechanical transitions.
+6. VR/AR Hardware
+Website Name: Ocular XR
+Visuals & Objects: 3D headset that dissects into individual lenses and chips on scroll; distortion/refraction hover effects.
+Style Rules: Pitch Black & Holographic gradients. Fonts: Helvetica Now Display. Immersive full-screen imagery, horizontal scrolling.
+7. Aerospace Tech
+Website Name: Zenith Orbital
+Visuals & Objects: A 3D satellite orbiting a volumetric rendered Earth; starry particle field backgrounds.
+Style Rules: Midnight Blue & Titanium. Fonts: Monument Extended. Cinematic lighting, slow cinematic easing.
+8. Synthetic Biology
+Website Name: Helix Genesis
+Visuals & Objects: Undulating 3D DNA strands; microscopic cellular environments with depth-of-field blur.
+Style Rules: Off-White & Bio-Luminescent Blue. Fonts: Ogg (Headers). Elegant, scientific but artistic, soft masking.
+9. Cloud Data Centers
+Website Name: Nimbus Storage
+Visuals & Objects: Infinite isometric grids of glowing server racks; data flow represented by light beams.
+Style Rules: Navy Blue & Bright Cyan. Fonts: Roobert. Clean, isometric perspective, snappy animations.
+10. Nanotechnology
+Website Name: PicoScale
+Visuals & Objects: Microscopic carbon nanotubes rendered in macro 3D; extreme zoom-in transitions on scroll.
+Style Rules: Dark Grey & Neon Pink. Fonts: Satoshi. High contrast, macro-photography aesthetic.
+II. High-End Mobility & Transport (11-20)
+11. Luxury Hypercars
+Website Name: Veloce Motors
+Visuals & Objects: Real-time 3D rendering of a car with customizable paint/rims; wind-tunnel particle simulations.
+Style Rules: Jet Black & Crimson Red. Fonts: Panchang. High-octane, aggressive typography, dark mode exclusive.
+12. Custom Motorcycles
+Website Name: Iron & Dust
+Visuals & Objects: 3D rendered V-Twin engine block; gritty, smoky video backgrounds.
+Style Rules: Matte Olive, Rust Orange, & Black. Fonts: Tungsten. Vintage brutalism, large uppercase headers.
+13. Private Aviation
+Website Name: Altitudes
+Visuals & Objects: An interactive 3D globe; floating clouds using WebGL shaders.
+Style Rules: Cloud White, Navy, & Champagne Gold. Fonts: Playfair Display. Airy, lots of whitespace, elegant serif typography.
+14. Luxury Yachts
+Website Name: Oceana Bespoke
+Visuals & Objects: Water caustics shaders; 3D yacht cutting through virtual waves.
+Style Rules: Ocean Blue & Pearl White. Fonts: GT Sectra. Refined, fluid scrolling, parallax depth.
+15. Electric Bicycles
+Website Name: Volt Rider
+Visuals & Objects: 3D bike frame that builds itself as the user scrolls down the page.
+Style Rules: Concrete Grey & Electric Yellow. Fonts: Outfit. Sporty, kinetic, bold geometric shapes.
+16. Submersibles & Deep Sea
+Website Name: Abyss Explorations
+Visuals & Objects: Darkening underwater gradients on scroll; volumetric lighting filtering through "water"; 3D sub.
+Style Rules: Abyss Black & Bioluminescent Aqua. Fonts: Cabinet Grotesk. Mysterious, depth-driven parallax.
+17. EV Charging Infrastructure
+Website Name: Pulse Grid
+Visuals & Objects: Glowing nodes connecting across a 3D city map; pulsing energy flow animations.
+Style Rules: Dark Forest Green & Lime. Fonts: Basier Circle. Eco-tech, clean lines, glowing accents.
+18. Maglev Trains / High-Speed Rail
+Website Name: Velocity Rail
+Visuals & Objects: Motion-blurred environments; 3D train zooming past the viewport.
+Style Rules: Silver & Bullet Blue. Fonts: Formula Condensed. Speed-focused, horizontal lines, italicized accents.
+19. Restomod Classic Cars
+Website Name: Reborn Classics
+Visuals & Objects: Side-by-side interactive image sliders (old vs. new); 3D vintage leather textures.
+Style Rules: British Racing Green & Cream. Fonts: Editorial New. Retro-modern, grain overlays, editorial layout.
+20. Commercial Drones
+Website Name: AeroVista
+Visuals & Objects: 3D drone that rotates based on mouse position; aerial topology maps.
+Style Rules: Slate Grey & Sky Blue. Fonts: Inter. Technical, precision-focused, grid systems.
+III. Architecture & Space (21-30)
+21. Avant-Garde Architecture
+Website Name: Monolith Studio
+Visuals & Objects: Interactive 3D building models; shifting shadows based on time of day.
+Style Rules: Concrete Grey, Black, & White. Fonts: Neue Haas Grotesk. Swiss design, strict grids, brutalist.
+22. Luxury Real Estate
+Website Name: The Pinnacle
+Visuals & Objects: 360-degree WebGL room tours; floating architectural floor plans.
+Style Rules: Marble White & Slate. Fonts: Canela. High-end editorial, elegant transitions, serif dominance.
+23. Interior Design
+Website Name: Form & Flow
+Visuals & Objects: Morphing materials (wood, marble, fabric) rendered in 3D; dynamic lighting toggles.
+Style Rules: Terracotta, Beige, & Sage. Fonts: Larken. Warm, earthy, soft drop shadows.
+24. Landscape Architecture
+Website Name: TerraFirma
+Visuals & Objects: Topographical maps that extrude into 3D mountains; fluid river animations.
+Style Rules: Moss Green & Earth Brown. Fonts: PP Mori. Organic shapes, nature-inspired palettes.
+25. Smart City Planning
+Website Name: MetroFuture
+Visuals & Objects: Isometric 3D city block that illuminates data points on hover.
+Style Rules: Night Mode Blue & Neon Orange. Fonts: Biotif. Data-driven, glowing UI elements.
+26. Museum & Exhibition Design
+Website Name: Curate
+Visuals & Objects: 3D statues scanning in with point clouds; horizontal gallery scrolling.
+Style Rules: Pure White & Deep Red. Fonts: Bodoni Moda. Typographic-led, massive headings, minimalist.
+27. High-End Stadium Design
+Website Name: Arena Works
+Visuals & Objects: Sweeping drone video loops; 3D stadium cross-sections.
+Style Rules: Charcoal & Stadium Floodlight White. Fonts: Anton. Monumental, bold, loud typography.
+28. Underwater Habitats
+Website Name: Aquatica
+Visuals & Objects: Ripple shaders; floating particles; 3D glass domes.
+Style Rules: Deep Navy & Coral Pink. Fonts: Outfit. Fluid, immersive, distortion effects.
+29. Space Habitats & Off-world
+Website Name: AstroColony
+Visuals & Objects: Rotating 3D Mars base; starry background parallax.
+Style Rules: Martian Red & Stark White. Fonts: Geomanist. Sci-fi minimal, cinematic.
+30. Floating/Amphibious Homes
+Website Name: AquaTecture
+Visuals & Objects: Gentle wave math formulas dictating the scroll easing; 3D floating villas.
+Style Rules: Seafoam & Sand. Fonts: Recoleta. Calm, wavy borders, soft easing.
+IV. Fashion & Wearables (31-40)
+31. Haute Couture
+Website Name: Maison Noir
+Visuals & Objects: Cloth simulation using WebGL; garments flowing as if underwater.
+Style Rules: Pure Black & Gold Foil. Fonts: SangBleu. Avant-garde, oversized typography, asymmetrical layouts.
+32. Streetwear & Sneakers
+Website Name: HYPE KICKS
+Visuals & Objects: 3D interactive shoe model (rotate, unlace); glitch transitions.
+Style Rules: Neon Green, Black, & Chrome. Fonts: Druk Wide. Loud, brutalist, marquee scrolling text.
+33. Smart Watches / Wearables
+Website Name: Chronos Tech
+Visuals & Objects: Watch face dials spinning on scroll; 3D glass refraction.
+Style Rules: Matte Black & Electric Blue. Fonts: SF Pro Display. Apple-esque, high-res macro imagery.
+34. Luxury Eyewear
+Website Name: Optic
+Visuals & Objects: 3D glasses reflecting the user's cursor movement; lens distortion shaders on images.
+Style Rules: Tortoiseshell Brown & Gold. Fonts: Cormorant Garamond. Sophisticated, thin lines.
+35. Sustainable Fabrics
+Website Name: Loom & Leaf
+Visuals & Objects: Microscopic 3D view of weaving threads; soft organic morphing blobs.
+Style Rules: Oatmeal, Olive, & Hemp. Fonts: Quincy CF. Soft, approachable, rounded corners.
+36. Bespoke Tailoring
+Website Name: The Savile
+Visuals & Objects: Interactive measuring tape loader; 3D fabric swatches with realistic physics.
+Style Rules: Navy Blue, Charcoal, & Copper. Fonts: Ogg. Classic, tailored grids, gentlemanly.
+37. Avant-Garde Jewelry
+Website Name: Prismatica
+Visuals & Objects: Real-time raytracing on 3D diamonds/gems; light scattering effects.
+Style Rules: Velvet Black & Diamond White. Fonts: Cinzel. High contrast, dark mode, sparkling micro-interactions.
+38. High-Performance Activewear
+Website Name: Kinetic
+Visuals & Objects: Thermal mapping visuals; 3D animated avatars running.
+Style Rules: Neon Yellow & Asphalt. Fonts: Tungsten. High energy, dynamic diagonals.
+39. High-End Luggage
+Website Name: Voyageur
+Visuals & Objects: 3D suitcase spinning; exploding view of internal compartments.
+Style Rules: Aluminum Silver & Saddle Brown. Fonts: Mabry Pro. Jet-setter aesthetic, clean, durable feel.
+40. Smart Clothing/E-Textiles
+Website Name: Lumina Thread
+Visuals & Objects: Glowing threads wrapping around a 3D mannequin.
+Style Rules: Pitch Black & Fiber Optic Blue. Fonts: Space Mono. Cyberpunk-lite, tech-fashion hybrid.
+V. Food, Beverage & Gastronomy (41-50)
+41. Molecular Gastronomy
+Website Name: Alchemist Dining
+Visuals & Objects: Floating 3D smoke/liquid nitrogen simulations; dissolving plate transitions.
+Style Rules: Slate Plate & Vibrant Garnish Colors. Fonts: Garnett. Mysterious, dark, artistic.
+42. Exotic Craft Spirits / Gin
+Website Name: Botanica
+Visuals & Objects: 3D glass bottle refracting light; floating botanical ingredients (juniper, citrus).
+Style Rules: Emerald Green & Copper Foil. Fonts: Ogg. Vintage apothecary meets modern luxury.
+43. Fine Wine / Vineyard
+Website Name: Château Noir
+Visuals & Objects: Liquid simulation pouring across the screen; 3D topographical map of the terroir.
+Style Rules: Burgundy, Cork, & Deep Red. Fonts: Domaine Display. Timeless, slow-paced scroll, elegant.
+44. Specialty Coffee Roasters
+Website Name: Crema
+Visuals & Objects: 3D coffee bean exploding into grounds; steam particle effects.
+Style Rules: Espresso Brown & Cream. Fonts: Gopher. Warm, modern, slightly brutalist layout.
+45. Nootropic / Energy Drinks
+Website Name: Synapse
+Visuals & Objects: Kinetic 3D aluminum can; glowing neuron backgrounds.
+Style Rules: Electric Purple & Cyan. Fonts: Clash Display. High-energy, futuristic, bold.
+46. Lab-Grown Meat / Future Food
+Website Name: Cultured
+Visuals & Objects: Clean, scientific 3D petri dish setups; microscopic cellular growth timelapses.
+Style Rules: Clinical White & Fresh Pink. Fonts: Halyard Display. Clean, transparent, biotech-inspired.
+47. Artisanal Chocolatier
+Website Name: Cacao & Co.
+Visuals & Objects: Viscous liquid chocolate flowing down the page; 3D snapping chocolate bars.
+Style Rules: Cocoa Brown & Gold. Fonts: Lust. Rich, indulgent, smooth easing.
+48. Exotic Spices
+Website Name: Saffron & Silk
+Visuals & Objects: Floating 3D dust particles (pollen/spices); colorful cloud bursts on click.
+Style Rules: Saffron Yellow, Terracotta, & Black. Fonts: Roslindale. Warm, textured, vibrant.
+49. Vertical Farming
+Website Name: AeroGreens
+Visuals & Objects: 3D tower of plants that grows as you scroll; UV lighting overlays.
+Style Rules: Leaf Green & UV Purple. Fonts: Inter. Eco-tech, structured grids.
+50. Luxury Bottled Water
+Website Name: Glacier Pure
+Visuals & Objects: Interactive ice block that melts; fluid distortion shaders on text.
+Style Rules: Ice Blue & Crystal White. Fonts: Neue Montreal. Ultra-minimal, crisp, refreshing.
+VI. Art, Media & Entertainment (51-60)
+51. Digital Art / NFT Gallery
+Website Name: The Canvas
+Visuals & Objects: Infinite 3D gallery space users can navigate; dynamic lighting on artwork.
+Style Rules: Varies based on art (Neutral White/Black base). Fonts: Syne. Museum-like, frame focus.
+52. Motion Graphics Studio
+Website Name: Keyframe
+Visuals & Objects: Wild, abstract 3D geometry morphing constantly; custom cursor interactions.
+Style Rules: Acid Green & Black. Fonts: PPRadio Grotesk. Highly kinetic, showreel-centric.
+53. Typography Foundry
+Website Name: Glyph
+Visuals & Objects: Massive 3D letters interacting with physics (falling, bouncing); kinetic typography.
+Style Rules: Black & White. Fonts: Custom (Showcasing their own). Purely typographic, stark contrast.
+54. Film Production Company
+Website Name: Cinematic
+Visuals & Objects: Full-screen video backgrounds with grain; 3D film clapperboard.
+Style Rules: Letterbox Black. Fonts: Akzidenz-Grotesk. Cinematic, dark, focus on moving image.
+55. Sound Design Studio
+Website Name: Resonance
+Visuals & Objects: 3D audio visualizer reacting to background music; wave forms.
+Style Rules: Deep Purple & Neon Pink. Fonts: Space Grotesk. Audio-reactive elements, sleek.
+56. High-End Nightclub
+Website Name: The Void
+Visuals & Objects: Strobing light effects (user warning needed); 3D disco ball with raytraced reflections.
+Style Rules: Pitch Black & Laser Red. Fonts: Druk Wide. Loud, abrasive, immersive nightlife feel.
+57. Experiential Marketing Agency
+Website Name: Immersion
+Visuals & Objects: Portals masking video content; smooth WebGL page transitions (no hard loads).
+Style Rules: Iridescent Gradients. Fonts: Aeonik. Trend-setting, heavily interactive.
+58. Illusionist / Magic Act
+Website Name: Prestige
+Visuals & Objects: Smoke shaders obscuring content until hovered; objects disappearing.
+Style Rules: Midnight Blue & Silver. Fonts: Cormorant. Mysterious, clever micro-interactions.
+59. E-Sports Team
+Website Name: Apex Gaming
+Visuals & Objects: 3D team mascots/logos; glowing neon particle effects.
+Style Rules: Toxic Green & Dark Grey. Fonts: Monument Extended. Aggressive, gamer-aesthetic, high frame-rate animations.
+60. Tattoo Studio
+Website Name: Inked
+Visuals & Objects: 3D rotating human figure showcasing tattoo placement; ink-drop transitions.
+Style Rules: Charcoal & Blood Red. Fonts: Old English / Cholla. Gritty, artistic, image-heavy.
+VII. Health, Wellness & Biohacking (61-70)
+61. Neurotech / Brain Interfaces
+Website Name: Cortex
+Visuals & Objects: Glowing 3D brain synapses; pulsing light paths mimicking thoughts.
+Style Rules: Electric Blue & Deep Space. Fonts: Inter. Scientific, precise, futuristic.
+62. Longevity & Anti-Aging Clinic
+Website Name: Aeterna
+Visuals & Objects: Sand flowing upward in a 3D hourglass; soft light orbs.
+Style Rules: Pearl White & Soft Gold. Fonts: SangBleu. Luxurious, calm, reassuring.
+63. Luxury Skincare
+Website Name: Luminous
+Visuals & Objects: 3D water droplets splashing on smooth textures; morphing liquid blobs.
+Style Rules: Nude, Blush, & Cream. Fonts: Ogg. Soft, organic, highly tactile.
+64. Sleep Optimization Tech
+Website Name: Somnus
+Visuals & Objects: Darkening gradients (sunset to night); floating 3D moons/clouds.
+Style Rules: Twilight Blue & Lavender. Fonts: Larken. Calming, slow scroll easing, dark mode.
+65. Cryotherapy Centers
+Website Name: SubZero
+Visuals & Objects: Frost forming on the screen edges; 3D ice crystal formations.
+Style Rules: Arctic Blue & White. Fonts: Clash Display. Crisp, sharp, chilling transitions.
+66. VR Therapy / Mental Health
+Website Name: Sanctuary VR
+Visuals & Objects: Calming 3D low-poly landscapes; breathing animation circles.
+Style Rules: Sage Green & Soft Peach. Fonts: Nunito. Welcoming, gentle, slow-paced.
+67. Bespoke Nutrition & DNA Testing
+Website Name: Genotype
+Visuals & Objects: 3D rotating double helix; data-visualization charts building on scroll.
+Style Rules: Clinical White & Gen-Z Purple. Fonts: Satoshi. Data-heavy but beautifully visualized.
+68. High-Tech Prosthetics
+Website Name: Bionic
+Visuals & Objects: Exploded 3D view of a robotic limb; metallic reflections.
+Style Rules: Carbon Fiber Black & Silver. Fonts: Tungsten. Empowering, high-tech, engineered.
+69. Sensory Deprivation Tanks
+Website Name: The Float
+Visuals & Objects: Screen starts white, slowly fades to complete black; water ripple mouse trails.
+Style Rules: Vantablack. Fonts: Helvetica Now. Extreme minimalism, sensory focus.
+70. Advanced Dental Studio
+Website Name: Lumineer
+Visuals & Objects: Pearlescent 3D tooth models; glowing UV light scanning effects.
+Style Rules: Pristine White & Mint. Fonts: PP Telegraf. Ultra-clean, sterile but inviting.
+VIII. Environment & Energy (71-80)
+71. Fusion Energy Startups
+Website Name: Plasma Core
+Visuals & Objects: A glowing, rotating 3D tokamak reactor; magnetic field lines visualizer.
+Style Rules: Sunburst Orange & Deep Violet. Fonts: Space Grotesk. Extreme energy, glowing UI.
+72. Ocean Cleanup Initiatives
+Website Name: Blue Depth
+Visuals & Objects: Underwater scroll journey (surface to sea floor); 3D plastic breaking down.
+Style Rules: Ocean Blue & Seafoam. Fonts: GT Walsheim. Impactful, nature-focused, parallax.
+73. Next-Gen Solar Panels
+Website Name: Helios Tech
+Visuals & Objects: 3D solar array tracking a virtual sun on screen; light reflection shaders.
+Style Rules: Sun Yellow & Gloss Black. Fonts: Inter. Bright, optimistic, tech-forward.
+74. Carbon Capture Technology
+Website Name: Atmos
+Visuals & Objects: Particle vacuum simulation; 3D trees growing from mechanical bases.
+Style Rules: Sky Blue & Slate Grey. Fonts: Basier Circle. Clean air aesthetic, light and airy.
+75. Biodegradable Plastics
+Website Name: EcoPoly
+Visuals & Objects: 3D plastic bottle dissolving into leaves; organic morphing shapes.
+Style Rules: Kraft Paper Brown & Leaf Green. Fonts: Recoleta. Earthy, textured, friendly.
+76. Wind Turbine Tech
+Website Name: Zephyr
+Visuals & Objects: Massive 3D turbine blades spinning based on scroll speed.
+Style Rules: Cloud White & Grey. Fonts: Neue Montreal. Monumental scale, airy, sweeping motion.
+77. Geoengineering
+Website Name: TerraForm
+Visuals & Objects: 3D Earth model with changing climate heatmaps.
+Style Rules: Warning Orange & Earth Brown. Fonts: Monument Extended. Urgent, bold, scientific.
+78. Eco-Tourism & Resorts
+Website Name: The Wild
+Visuals & Objects: 360-degree jungle panoramas; ambient rain/bird audio.
+Style Rules: Forest Green & Wood Brown. Fonts: Larken. Immersive, lush, natural.
+79. Lab-Grown Diamonds
+Website Name: Carbonite
+Visuals & Objects: High-fidelity 3D diamond showing internal light refraction.
+Style Rules: Pitch Black & Diamond White. Fonts: Cinzel. High luxury, stark contrast.
+80. Smart Agriculture (AgTech)
+Website Name: CropMind
+Visuals & Objects: Isometric 3D farm with drone scanners; data overlays on soil.
+Style Rules: Soil Brown & Bright Green. Fonts: Biotif. Tech meets nature, grid systems.
+IX. Premium Consumer Goods & Lifestyle (81-90)
+81. High-End Audio / Audiophile Gear
+Website Name: Fidelity
+Visuals & Objects: 3D vacuum tubes glowing; speaker cones vibrating to scroll.
+Style Rules: Walnut Wood & Brushed Aluminum. Fonts: GT Sectra. Vintage tech, tactile, warm.
+82. Custom Mechanical Keyboards
+Website Name: Keystroke
+Visuals & Objects: 3D keyboard where keys depress on click; exploded switch views.
+Style Rules: Pastel Pink, Blue, & Grey (customizable). Fonts: JetBrains Mono. Tactile, interactive, playful.
+83. Bespoke Guitars / Instruments
+Website Name: Luthier
+Visuals & Objects: 3D guitar body revealing wood grain; string vibration animations.
+Style Rules: Mahogany & Brass. Fonts: Ogg. Artisanal, passionate, musical.
+84. Luxury Horology / Watches
+Website Name: Tourbillon
+Visuals & Objects: Macro 3D rendering of watch gears spinning; synchronized to local time.
+Style Rules: Navy Blue & Rose Gold. Fonts: Cormorant. Meticulous, timeless, highly detailed.
+85. High-End Surfboards / Foil Boards
+Website Name: HydroFoil
+Visuals & Objects: 3D board cutting through WebGL water.
+Style Rules: Aqua Blue & White. Fonts: Clash Display. Sleek, aerodynamic, fluid.
+86. Snowboards & Winter Gear
+Website Name: Alpine
+Visuals & Objects: Falling 3D snow particles; mountain topography lines.
+Style Rules: Ice White & Neon Orange. Fonts: Druk Wide. Extreme sports, high energy.
+87. Luxury Camping / Glamping
+Website Name: Canvas & Stars
+Visuals & Objects: 3D tent under a starry night sky; flickering campfire glow.
+Style Rules: Canvas Beige & Midnight. Fonts: Quincy CF. Cozy, outdoorsy, upscale.
+88. Fountain Pens / Fine Writing
+Website Name: Nib & Ink
+Visuals & Objects: 3D pen leaving a trail of ink that forms the website's text.
+Style Rules: Black & Gold. Fonts: Playfair Display. Calligraphic, elegant, traditional.
+89. Luxury Chess Sets
+Website Name: Grandmaster
+Visuals & Objects: 3D marble chessboard you can rotate; pieces sliding into place.
+Style Rules: Black & White Marble. Fonts: Bodoni Moda. Strategic, classical, high contrast.
+90. Yacht Toys (Seabobs, Jetboards)
+Website Name: AquaThruster
+Visuals & Objects: 3D objects zipping across the screen; wake/splash particles.
+Style Rules: Neon Cyan & Black. Fonts: Formula Condensed. Fast, fun, aggressive.
+X. Advanced B2B & Heavy Industry (91-100)
+91. Semiconductor Manufacturing
+Website Name: Silico
+Visuals & Objects: Microscopic 3D view of circuits being etched; glowing silicon wafers.
+Style Rules: Clean Room White & Silicon Purple. Fonts: Inter. Precision, ultra-clean, technical.
+92. Rare Earth Mining
+Website Name: Lithos
+Visuals & Objects: 3D cross-section of the earth's crust; glowing mineral deposits.
+Style Rules: Slate Grey & Cobalt Blue. Fonts: Monument Extended. Heavy, industrial, elemental.
+93. Global Maritime Shipping
+Website Name: Meridian Cargo
+Visuals & Objects: 3D globe with glowing shipping routes; massive cargo ship model.
+Style Rules: Ocean Blue & Container Red. Fonts: Helvetica Now. Monumental scale, logistic grids.
+94. Advanced Metallurgy / Alloys
+Website Name: Forgecast
+Visuals & Objects: Liquid metal pouring simulation; 3D metal block showing stress testing.
+Style Rules: Steel Blue & Molten Orange. Fonts: Tungsten. Heat, pressure, brutalist.
+95. Industrial Supply Chain / Logistics
+Website Name: OmniRoute
+Visuals & Objects: Isometric 3D conveyor belts; boxes moving in perfect synchronization.
+Style Rules: Navy & Safety Yellow. Fonts: Space Grotesk. Organized, rhythmic motion.
+96. Satellite Communications
+Website Name: OrbitCom
+Visuals & Objects: 3D satellite beaming signals down; Earth curvature parallax.
+Style Rules: Void Black & Laser Blue. Fonts: Syne. Space-age, global reach.
+97. Desalination Plants
+Website Name: PureFlow
+Visuals & Objects: Salt separating from water via WebGL particle systems.
+Style Rules: Salt White & Aqua. Fonts: Outfit. Refreshing, scientific, fluid.
+98. Metamaterials Research
+Website Name: MetaStruc
+Visuals & Objects: 3D lattice structures that bend light/become invisible on scroll.
+Style Rules: Iridescent Silver. Fonts: Satoshi. Mind-bending, optical illusions.
+99. Commercial 3D Printing
+Website Name: Layered
+Visuals & Objects: 3D printer head building the website's headers layer by layer.
+Style Rules: Matte Black & Neon Pink. Fonts: JetBrains Mono. Additive, mechanical, precise.
+100. Commercial Space Ports
+Website Name: LaunchPad One
+Visuals & Objects: 3D rocket on a launchpad; exhaust smoke physics on scroll down.
+Style Rules: Concrete Grey & Fire Orange. Fonts: Druk Wide. Monumental, futuristic, awe-inspiring.
+
